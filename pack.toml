@@ -1,0 +1,16 @@
+name = "Vaalosbasicspeedsetup"
+author = "vaalo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d5ac30ecc6e2e5f3368e1a2a872c10eb3d9a1b1c740c63ab86d5aaf4e68b7f22"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.2"]
