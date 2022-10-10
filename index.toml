@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
 
 [[files]]
+file = "index.toml.bak"
+hash = "f625dbbb94bf2a8d2cd2de2539d7c1c897262e13d2ed995f346964a31a939275"
+
+[[files]]
 file = "mods/backpackmod.pw.toml"
 hash = "6a521e6df498ca624215a76e8423961b28f9cd6c1124c8798ea7a78842244606"
 metafile = true
@@ -47,11 +51,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
 metafile = true
 
 [[files]]
