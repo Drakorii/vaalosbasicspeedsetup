@@ -15,6 +15,16 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "eb5f44e72e1f5b9e657853c59387d75f49d5dbac7efbc2b820fb06c9ec4e5e9b"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "024e9ce1c59032baaf74867f7ceb8ec03e1de56bfa9ff8a8a14e4e00a91b3401"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
@@ -106,5 +116,10 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "3fd72c1dc35ee7b8361861b6c13bd6eca5ef93afe89e55970bacdf8a2c57759e"
+hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "7e1911dd6959d948f4faeead67f00d3311fe33c31c4efa5b5239955a1a9cec36"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Your Items Are Safe"
+filename = "youritemsaresafe-fabric_1.19.2-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lL35xmSR/versions/NFeeYIfd/youritemsaresafe-fabric_1.19.2-2.1.jar"
+hash-format = "sha1"
+hash = "1e42470dbe5b680e9cc4ab52a8c4fceeb39d0bfc"
+
+[update]
+[update.modrinth]
+mod-id = "lL35xmSR"
+version = "NFeeYIfd"

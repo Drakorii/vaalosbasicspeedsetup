@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-fabric-1.19.2-5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/2BBNiaxn/collective-fabric-1.19.2-5.4.jar"
+hash-format = "sha1"
+hash = "4530cf227bef50c16e52bf7fe448291749f4a125"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "2BBNiaxn"
