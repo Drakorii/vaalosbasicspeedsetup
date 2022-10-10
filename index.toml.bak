@@ -20,6 +20,11 @@ hash = "eb5f44e72e1f5b9e657853c59387d75f49d5dbac7efbc2b820fb06c9ec4e5e9b"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "024e9ce1c59032baaf74867f7ceb8ec03e1de56bfa9ff8a8a14e4e00a91b3401"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
