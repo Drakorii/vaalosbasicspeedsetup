@@ -9,13 +9,18 @@ file = "index.toml.bak"
 hash = "f625dbbb94bf2a8d2cd2de2539d7c1c897262e13d2ed995f346964a31a939275"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "985fc57fb7f38d858a3154b599265d05a86a33df3e7127da35ba7dafd79744be"
+metafile = true
+
+[[files]]
 file = "mods/backpackmod.pw.toml"
 hash = "6a521e6df498ca624215a76e8423961b28f9cd6c1124c8798ea7a78842244606"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
@@ -40,7 +45,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
+hash = "234cd2ef3c32121ce1219c62afdbe7273fe79f95252c322ec3a28411f42c721d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "33151ae64304b2b7fdb3d4243cf7d6a0dd6d17a700318080b5b3f2ea8e6fa326"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "ac940299cfa597f6e8fd9b808859de84a4c4ed61741a5ef366ecf48e04546141"
 metafile = true
 
 [[files]]
@@ -64,6 +79,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "c536969c548614e98e77c638f15e428391182f0563ee67d1c2be6cb89f8faf84"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -74,6 +94,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a2e651bc484744f582e2de2da8b94cebae47875c7a505ce2d9fa06526dedd6a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
@@ -81,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/mob-catcher-fabric.pw.toml"
+hash = "cad272dbb89d09cbaf78c54db5ce934631117ddac13bee0aac6999ceaa715fd1"
 metafile = true
 
 [[files]]
