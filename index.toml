@@ -14,8 +14,18 @@ hash = "985fc57fb7f38d858a3154b599265d05a86a33df3e7127da35ba7dafd79744be"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "be7cd5bb98612bff05b734b897003c56dca3d943901fc4d59f2b1a86a5ee0771"
+metafile = true
+
+[[files]]
 file = "mods/backpackmod.pw.toml"
 hash = "6a521e6df498ca624215a76e8423961b28f9cd6c1124c8798ea7a78842244606"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "bd44363ed309b231bc0ef7bb199c020325bd29637b4a02382b9e1ae91d8ff544"
 metafile = true
 
 [[files]]
@@ -124,6 +134,11 @@ hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "5b41dc153db5a1a7f7d9f49df5bf37064bb4e867800211a55eaf2b7f1de7a79d"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -141,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "31db98dc9faebcc9a1eff6800b3e0b1210c07eaa73208da1a04d8422caf0772d"
 metafile = true
 
 [[files]]
