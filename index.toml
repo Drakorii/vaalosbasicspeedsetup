@@ -164,6 +164,11 @@ hash = "31db98dc9faebcc9a1eff6800b3e0b1210c07eaa73208da1a04d8422caf0772d"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "13a87b21bb54900af31364fed22b2c69a178ffaa490d5f6bb84bbf637df25077"
+metafile = true
+
+[[files]]
 file = "mods/your-items-are-safe.pw.toml"
 hash = "7e1911dd6959d948f4faeead67f00d3311fe33c31c4efa5b5239955a1a9cec36"
 metafile = true
