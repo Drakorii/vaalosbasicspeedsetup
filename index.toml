@@ -6,7 +6,7 @@ hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
 
 [[files]]
 file = "index.toml.bak"
-hash = "f625dbbb94bf2a8d2cd2de2539d7c1c897262e13d2ed995f346964a31a939275"
+hash = "b56b3d2c28e4fd4654e5af2f57f4a080a62c24876a60ba14eae24f82ba79505c"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "234cd2ef3c32121ce1219c62afdbe7273fe79f95252c322ec3a28411f42c721d"
+hash = "da481c054a2671c6546413c1931ff90713edc950ad6a5462fc6798c478e01172"
 metafile = true
 
 [[files]]
